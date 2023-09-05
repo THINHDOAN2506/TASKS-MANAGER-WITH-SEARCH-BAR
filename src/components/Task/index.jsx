@@ -21,7 +21,7 @@ const Task = (props) => {
       case TASK_STATUS.NEW:
         return "blue";
       case TASK_STATUS.DOING:
-        return "yellow";
+        return "gold";
       case TASK_STATUS.DONE:
         return "green";
       default:
