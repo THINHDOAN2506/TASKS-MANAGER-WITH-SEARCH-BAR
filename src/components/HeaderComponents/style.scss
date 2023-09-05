@@ -1,0 +1,13 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    background-color: rgb(8, 12, 241);
+    height: 70px;
+    &__search-input {
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+    }
+}

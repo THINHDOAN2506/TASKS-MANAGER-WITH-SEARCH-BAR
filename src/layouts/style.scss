@@ -1,0 +1,11 @@
+.mainlayout-container {
+
+    &__groups {
+        display: flex;
+       
+    }
+    .right-side {
+        padding: 10px;
+        width: calc(100vw - 200px);
+    }
+}
