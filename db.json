@@ -1,70 +1,6 @@
 {
   "tasks": [
     {
-      "title": "CTCP VinHomes ",
-      "creator": "VHM",
-      "createAt": "2023-07-04T01:26:37.450Z",
-      "status": "New",
-      "description": "Bất Động sản, Nhà ở Thương Mại...",
-      "id": 1
-    },
-    {
-      "title": "CTCP Sữa VN Vinamilk",
-      "creator": "VNM",
-      "createAt": "2023-07-04T01:27:02.391Z",
-      "status": "Doing",
-      "description": "Sữa và các sản phẩm từ sữa",
-      "id": 2
-    },
-    {
-      "title": "Masan",
-      "creator": "MSN",
-      "createAt": "2023-07-04T01:27:37.902Z",
-      "status": "Done",
-      "description": "Bán lẻ, tiêu dùng",
-      "id": 3
-    },
-    {
-      "title": "Đạm Phú Mỹ",
-      "creator": "DPM",
-      "createAt": "2023-07-04T01:34:58.587Z",
-      "status": "Done",
-      "description": "Phân bón",
-      "id": 4
-    },
-    {
-      "title": "Tập đoàn công nghiệp Hòa Phát",
-      "creator": "HPG",
-      "createAt": "2023-07-04T01:35:24.888Z",
-      "status": "Doing",
-      "description": "Thép, Bất động sản, nội thất...",
-      "id": 5
-    },
-    {
-      "title": "Tập đoàn FPT",
-      "creator": "FPT",
-      "createAt": "2023-07-04T01:38:04.715Z",
-      "status": "Done",
-      "description": "Công nghệ, giáo dục, Bất động sản...",
-      "id": 6
-    },
-    {
-      "title": "Tập đoàn cơ điện lạnh REE",
-      "creator": "REE",
-      "createAt": "2023-07-04T01:38:50.829Z",
-      "status": "Done",
-      "description": "Cơ điện lạnh, ...",
-      "id": 7
-    },
-    {
-      "title": "Tổng công ty đầu tư và phát triển công nghiệp Becamax ",
-      "creator": "BCM",
-      "createAt": "2023-07-04T01:39:51.924Z",
-      "status": "Done",
-      "description": "Bất động sản ,Xây dựng, hạ tầng Công nghiệp",
-      "id": 8
-    },
-    {
       "title": "Ngân hàng TMCP Ngoại Thương  Vietcombank",
       "creator": "VCB",
       "createAt": "2023-07-04T01:45:38.122Z",
@@ -135,6 +71,12 @@
       "status": "New",
       "description": "Ngân hàng",
       "id": 17
+    },
+    {
+      "taskName": "thinh",
+      "isDone": false,
+      "createAt": 1693901593217,
+      "id": 18
     }
   ]
 }
